@@ -6,3 +6,7 @@ tags
 xl2tpd
 xl2tpd-control
 pfc
+build-stamp
+configure-stamp
+debian/files
+debian/xl2tpd.substvars
